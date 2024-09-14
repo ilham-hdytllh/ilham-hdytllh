@@ -23,11 +23,8 @@
 
 # <h3 align="left">📊 GitHub Stats:</h3>
 ![](https://github-readme-stats.vercel.app/api?username=ilham-hdytllh&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
-<div style="display: flex; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilham-hdytllh&theme=transparent&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="width: 50%;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilham-hdytllh&theme=transparent&hide_border=false" alt="GitHub Streak" style="width: 50%;">
-</div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilham-hdytllh&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+![](https://github-readme-streak-stats.herokuapp.com/?user=ilham-hdytllh&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ilham-hdytllh&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 
