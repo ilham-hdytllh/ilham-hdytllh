@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilham-hdytllh&label=Profile%20views&color=0e75b6&style=flat" alt="ilham-hdytllh" /> </p>
 
-- 🔭 I’m currently working on PT Indotaichen Textile Industry
-
 - 🌱 I’m currently learning **React JS**
 
 - 💬 Ask me about **Laravel,Flutter**
